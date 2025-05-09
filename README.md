@@ -1,4 +1,5 @@
 # 10 Portfolios for Data Scientists
+![Image](https://github.com/user-attachments/assets/5fec0742-76f2-4537-a272-de8aecbd0e3c)
 
 Here are 10 portfolios from prominent figures in the data science field that can help you in building your own portfolio. These portfolios provide valuable insights and tips for creating a strong portfolio.
 
